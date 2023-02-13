@@ -1,5 +1,5 @@
 ﻿Console.WriteLine("Введите число:");
-num = Convert.ToInt32(Console.ReadLine());
+int num = Convert.ToInt32(Console.ReadLine());
 
 if (num % 2 == 1)
 {
