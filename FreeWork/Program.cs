@@ -12,8 +12,8 @@ public class MyProgram
         Console.WriteLine(y);
     }
     
-    // .NET can only read single characters or entire lines from the
-    // console. The following function safely reads a double value.
+    // .NET может считывать только отдельные символы или целые строки из консоли
+//. Следующая функция безопасно считывает двойное значение.
     private static double inputValue()
     {
         double result;
